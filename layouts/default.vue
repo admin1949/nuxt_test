@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="app_content">
     <nuxt />
   </div>
 </template>
@@ -15,6 +15,13 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+}
+.app_content{
+  min-width: 1200px;
+  max-width: 1400px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 10px 25px;
 }
 
 *,

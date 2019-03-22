@@ -1,7 +1,7 @@
 {
-  "name": "nuxt_test",
+  "name": "nuxt_websit",
   "version": "1.0.0",
-  "description": "My solid Nuxt.js project",
+  "description": "基于nuxt的vuejs的服务端渲染网站",
   "author": "admin1949",
   "private": true,
   "scripts": {
